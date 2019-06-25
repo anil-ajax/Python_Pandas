@@ -1,1 +1,1 @@
-# This repository demonstrates how to instal land use Pandas. This is verry basic uses.
+# This repository demonstrates how to install land use Pandas. This is very basic uses
